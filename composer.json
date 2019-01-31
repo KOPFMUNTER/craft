@@ -39,9 +39,6 @@
   "config": {
     "optimize-autoloader": true,
     "sort-packages": true,
-    "platform": {
-      "php": "7.0"
-    }
   },
   "scripts": {
     "post-root-package-install": [
