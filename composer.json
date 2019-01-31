@@ -1,7 +1,7 @@
 {
-  "name": "nystudio107/craft",
-  "description": "nystudio107 Craft 3 CMS scaffolding project",
-  "version": "1.0.15",
+  "name": "KOPFMUNTER/craft",
+  "description": "KOPFMUNTER Craft 3 CMS scaffolding project based on nystudio107",
+  "version": "1.0.0",
   "keywords": [
     "craft",
     "cms",
@@ -9,19 +9,18 @@
     "project"
   ],
   "license": "MIT",
-  "homepage": "https://craftcms.com/",
+  "homepage": "https://kopfmunter.de/",
   "type": "project",
   "support": {
-    "email": "info@nystudio107.com",
-    "issues": "https://github.com/nystudio107/craft/issues",
-    "source": "https://github.com/nystudio107/craft",
-    "docs": "https://github.com/nystudio107/craft"
+    "email": "info@kopfmunter.de",
+    "issues": "https://github.com/KOPFMUNTER/craft/issues",
+    "source": "https://github.com/KOPFMUNTER/craft",
+    "docs": "https://github.com/KOPFMUNTER/craft"
   },
   "minimum-stability": "RC",
   "require": {
     "craftcms/cms": "^3.0.0",
     "vlucas/phpdotenv": "^2.4.0",
-    "yiisoft/yii2-redis": "^2.0.6",
     "nystudio107/craft3-multi-environment": "^1.0.5",
     "nystudio107/craft-scripts": "^1.2.4",
     "nystudio107/craft-eagerbeaver": "^1.0.0",
